@@ -34,4 +34,4 @@ app.MapControllers();
 
 await app.UseOcelot();
 
-app.Run("http://localhost:7056");
+app.Run("https://localhost:7056");
